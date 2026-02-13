@@ -1,0 +1,24 @@
+{
+  "name": "mini-body-parser",
+  "version": "1.0.0",
+  "description": "A small http body parser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsbiresh/mini-body-parser.git"
+  },
+  "author": "jsbiresh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsbiresh/mini-body-parser/issues"
+  },
+  "homepage": "https://github.com/jsbiresh/mini-body-parser#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
